@@ -1,0 +1,4 @@
+- Computer Science Student
+- C# Enthusiast
+- GNU/Linux User (Debian)
+- Experienced C developer
